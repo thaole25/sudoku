@@ -1,3 +1,6 @@
+"""
+Author: Thao Le
+"""
 import math
 import random
 

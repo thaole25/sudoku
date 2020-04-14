@@ -1,3 +1,4 @@
+- Author: Thao Le
 Sudoku board generator with backtracking algorithm
 
 Run:
